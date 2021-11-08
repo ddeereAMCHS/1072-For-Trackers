@@ -18,4 +18,5 @@ Example Input:\
 16\
 Example Output:\
 3\
-4
+4\
+1
