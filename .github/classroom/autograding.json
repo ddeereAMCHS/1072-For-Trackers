@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "javac Trackers.java",
+      "run": "java Trackers",
+      "input": "50\r\n12\r\n74\r\n23\r\n64\r\n5\r\n7\r\n16",
+      "output": "3\r\n4\r\n1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 2",
+      "setup": "javac Trackers.java",
+      "run": "java Trackers",
+      "input": "1\r\n1\r\n1\r\n1\r\n1\r\n1\r\n1\r\n1",
+      "output": "8\r\n0\r\n0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 3",
+      "setup": "javac Trackers.java",
+      "run": "java Trackers",
+      "input": "20\r\n20\r\n20\r\n20\r\n20\r\n20\r\n20\r\n20",
+      "output": "0\r\n0\r\n0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 4",
+      "setup": "javac Trackers.java",
+      "run": "java Trackers",
+      "input": "25\r\n25\r\n25\r\n25\r\n25\r\n25\r\n25\r\n25",
+      "output": "8\r\n8\r\n8",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 5",
+      "setup": "javac Trackers.java",
+      "run": "java Trackers",
+      "input": "30\r\n30\r\n30\r\n30\r\n30\r\n30\r\n30\r\n30",
+      "output": "0\r\n8\r\n0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
