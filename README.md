@@ -19,6 +19,6 @@ Example Input:\
 7\
 16\
 Example Output:\
-3\
-4\
-1
+Number of odd numbers: 3\
+Number of numbers greater than 20: 4\
+Number of odd numbers greater than 20: 1
