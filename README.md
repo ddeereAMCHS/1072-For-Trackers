@@ -9,7 +9,7 @@
   - Print how many numbers the user entered that were greater than 20
   - Print how many numbers the user entered that were odd and greater than 20
 
-Example Input:\
+***Example Input:***\
 50\
 12\
 74\
@@ -18,7 +18,7 @@ Example Input:\
 5\
 7\
 16\
-Example Output:\
+***Example Output:***\
 Number of odd numbers: 3\
 Number of numbers greater than 20: 4\
 Number of odd numbers greater than 20: 1
