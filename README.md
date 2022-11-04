@@ -1,6 +1,6 @@
 # Trackers
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Tue 11/8 at 11:59 PM
 
 - Create a program called `Trackers.java`
 - Using a for loop, prompt the user for 8 numbers from 0 to 99
