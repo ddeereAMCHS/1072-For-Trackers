@@ -5,7 +5,7 @@
       "setup": "javac Trackers.java",
       "run": "java Trackers",
       "input": "50\r\n12\r\n74\r\n23\r\n64\r\n5\r\n7\r\n16",
-      "output": "3\r\n4\r\n1",
+      "output": "Number of odd numbers: 3\r\nNumber of numbers greater than 20: 4\r\nNumber of odd numbers greater than 20: 1",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -15,7 +15,7 @@
       "setup": "javac Trackers.java",
       "run": "java Trackers",
       "input": "1\r\n1\r\n1\r\n1\r\n1\r\n1\r\n1\r\n1",
-      "output": "8\r\n0\r\n0",
+      "output": "Number of odd numbers: 8\r\nNumber of numbers greater than 20: 0\r\nNumber of odd numbers greater than 20: 0",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -25,7 +25,7 @@
       "setup": "javac Trackers.java",
       "run": "java Trackers",
       "input": "20\r\n20\r\n20\r\n20\r\n20\r\n20\r\n20\r\n20",
-      "output": "0\r\n0\r\n0",
+      "output": "Number of odd numbers: 0\r\nNumber of numbers greater than 20: 0\r\nNumber of odd numbers greater than 20: 0",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac Trackers.java",
       "run": "java Trackers",
       "input": "25\r\n25\r\n25\r\n25\r\n25\r\n25\r\n25\r\n25",
-      "output": "8\r\n8\r\n8",
+      "output": "Number of odd numbers: 8\r\nNumber of numbers greater than 20: 8\r\nNumber of odd numbers greater than 20: 8",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -45,7 +45,7 @@
       "setup": "javac Trackers.java",
       "run": "java Trackers",
       "input": "30\r\n30\r\n30\r\n30\r\n30\r\n30\r\n30\r\n30",
-      "output": "0\r\n8\r\n0",
+      "output": "Number of odd numbers: 0\r\nNumber of numbers greater than 20: 8\r\nNumber of odd numbers greater than 20: 0",
       "comparison": "included",
       "timeout": 10,
       "points": null
